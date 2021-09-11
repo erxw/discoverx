@@ -1,0 +1,7 @@
+base: https://www.guidetopharmacology.org/GRAC/
+urls:
+    - GPCRListForward?class=A
+    - GPCRListForward?class=B
+    - GPCRListForward?class=C
+    - GPCRListForward?class=Adhesion
+    - GPCRListForward?class=Other
